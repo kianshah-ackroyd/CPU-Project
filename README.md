@@ -57,7 +57,7 @@ The following files were provided by my instructor (Denis Onen) for lab assignme
 - Basys_3_Project.xdc
 
 ## License
-This project is part of my personal portfolio, Feel free to reference for learning opportunities, but please don't copy the contents for academic submissions
+This project is part of my personal portfolio. Feel free to reference it for learning opportunities, but please don't copy the contents for academic submissions
 
 
 
